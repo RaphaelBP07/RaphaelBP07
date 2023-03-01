@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-brand%C3%A3o-044bb6208/)
 
 ![Raphael Brandão GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelBP07&show_icons=true&theme=dracula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RaphaelBP07&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
